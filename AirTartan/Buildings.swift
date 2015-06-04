@@ -2,8 +2,7 @@
 //  Buildings.swift
 //  AirTartan
 //
-//  Created by Tian Zheng on 9/27/14.
-//  Copyright (c) 2014 Air Crew. All rights reserved.
+//  Copyright (c) 2014 Team Air Crew. All rights reserved.
 //
 
 import SpriteKit

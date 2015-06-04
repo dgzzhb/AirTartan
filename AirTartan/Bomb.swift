@@ -2,8 +2,7 @@
 //  Bomb.swift
 //  AirTartan
 //
-//  Created by Gang Wu on 14-9-29.
-//  Copyright (c) 2014 Air Crew. All rights reserved.
+//  Copyright (c) 2014 Team Air Crew. All rights reserved.
 //
 
 import SpriteKit

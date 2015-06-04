@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>EAF566EE-73FB-4549-A355-036C43045402</string>
+=======
+	<string>C2FAB045-CE8A-40D2-ACE2-A95A11DD0349</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectName</key>
 	<string>AirTartan</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
